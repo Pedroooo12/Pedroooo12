@@ -16,9 +16,8 @@ const about_me = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am passionate about challenges</b>  if you want to get together to do something big <b> do not hesitate to talk to me!!</b> :)</em>
-
+<em><a href="https://pedro-luis.netlify.app">My portfolio.</a></em>
 ---
-<em><a href="https://pedro-luis.netlify.app">My portfolio.</a>/</em>
 ⭐️ From [@Pedroooo12](https://github.com/Pedroooo12)
 
 
