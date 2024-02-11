@@ -37,8 +37,7 @@ const about_me = {
             <cite>Henry Ford</cite>
         </footer>
     </blockquote>
-
----
+    
 ⭐️ From [@Pedroooo12](https://github.com/Pedroooo12)
 
 
