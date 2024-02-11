@@ -28,7 +28,7 @@ const about_me = {
 
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am passionate about challenges</b>  if you want to get together to do something big <b> do not hesitate to talk to me!!</b> :)</em><br>
-
+<br>
 <blockquote>
         <p>
             "Anyone who stops learning becomes old, whether he is 20 or 80 years old. Anyone who continues learning remains young. This is the greatness of life."
