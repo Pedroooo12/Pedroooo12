@@ -1,7 +1,7 @@
 <h1> Hi, I'm Pedro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p><em>Second year student of Web Development at <a href="https://www.cesurformacion.com/">the Cesur center</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
 
-<h2>Importants links:</h2>
+## Importants links:
 <ul>
   <li>
     <em><a href="https://pedro-luis.netlify.app">Portfolio.</a></em>
