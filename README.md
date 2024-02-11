@@ -3,7 +3,7 @@
 
 <blockquote>
         <p>
-            "Cualquiera que para de aprender se hace viejo, tanto si tiene 20 como 80 años. Cualquiera que sigue aprendiendo permanece joven. Esta es la grandeza de la vida."
+            "Anyone who stops learning becomes old, whether he is 20 or 80 years old. Anyone who continues learning remains young. This is the greatness of life."
         </p>
         <footer>
             <cite>Henry Ford</cite>
