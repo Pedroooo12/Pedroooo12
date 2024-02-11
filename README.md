@@ -1,10 +1,6 @@
 <h1> Hi, I'm Pedro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p><em>Second year student of Web Development at <a href="https://www.cesurformacion.com/">the Cesur center</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
 
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am passionate about challenges</b>  if you want to get together to do something big <b> do not hesitate to talk to me!!</b> :)</em><br>
-<br>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -15,6 +11,10 @@ const about_me = {
   challenges: "I'm working mostly in Angular but at the same time I'm learning Vue"
 }
 ```
+
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am passionate about challenges</b>  if you want to get together to do something big <b> do not hesitate to talk to me!!</b> :)</em><br>
+<br>
 
 ## Importants links:
 <ul>
