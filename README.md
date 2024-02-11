@@ -1,6 +1,17 @@
 <h1> Hi, I'm Pedro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p><em>Second year student of Web Development at <a href="https://www.cesurformacion.com/">the Cesur center</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
 
+<blockquote>
+        <p>
+            "Cualquiera que para de aprender se hace viejo, tanto si tiene 20 como 80 años. Cualquiera que sigue aprendiendo permanece joven. Esta es la grandeza de la vida."
+        </p>
+        <footer>
+            <cite>Henry Ford</cite>
+        </footer>
+    </blockquote>
+
+<br>
+
 ## Importants links:
 <ul>
   <li>
