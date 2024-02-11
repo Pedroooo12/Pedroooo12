@@ -9,9 +9,6 @@
             <cite>Henry Ford</cite>
         </footer>
     </blockquote>
-
-<br>
-
 ## Importants links:
 <ul>
   <li>
