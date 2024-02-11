@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A passionate frontend developer from Murcia, Spain</h3>
+<h1> Hi, I'm Pedro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<p><em>Second year student of Web Development at<a href="https://www.cesurformacion.com/">the Cesur center</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroooo12" alt="pedroooo12" /></a> </p>
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/pedro-luis-o%C3%B1ate-egea-741ab7220/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/pedro?label=follow&style=social)](https://github.com/Pedroooo12)
 
-- 🌱 I’m currently learning **Angular, Vue**
 
-- 👨‍💻 All of my projects are available at [https://pedro-luis.netlify.app/](https://pedro-luis.netlify.app/)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 📫 How to reach me **pedro9122002@gmail.com**
+```javascript
+const about_me = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, TailWind, Boostrap],
+  frameworks: [Angular, Vue],
+  challenges: "I'm working mostly in Angular but at the same time I'm learning Vue"
+}
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pedro luis oñate egea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro luis oñate egea" height="30" width="40" /></a>
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> am passionate about challenges</b>  if you want to get together to do something big <b> do not hesitate to talk to me!!</b> :)</em>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroooo12&show_icons=true&locale=en&layout=compact" alt="pedroooo12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroooo12&show_icons=true&locale=en" alt="pedroooo12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroooo12&" alt="pedroooo12" /></p>
+⭐️ From [@Pedroooo12](https://github.com/Pedroooo12)
 
 
 
