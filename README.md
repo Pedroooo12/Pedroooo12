@@ -26,7 +26,7 @@ const about_me = {
 </ul>
 
 
-
+<br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am passionate about challenges</b>  if you want to get together to do something big <b> do not hesitate to talk to me!!</b> :)</em><br>
 
 <blockquote>
