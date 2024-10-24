@@ -7,6 +7,7 @@
 const about_me = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, TailWind, Boostrap],
+  libraries: [ChartJS, Angular Material, FullCalendar]
   frameworks: [Angular, Vue],
   challenges: "I'm working mostly in Angular but at the same time I'm learning Vue"
 }
